@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
+title: Characterizing the Tropical Hydroclimate Response to the 8.2ka Event
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: present
 ---
 
 Every project has a beautiful feature showcase page.
