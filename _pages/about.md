@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate Research Assistant in the <a href='https://alyssaatwood.weebly.com'>Tropical Paleoclimate Dynamics Group</a> at <a href='https://eoas.fsu.edu'>Florida State University</a>.
+subtitle: Graduate Research Assistant in the <a href="https://alyssaatwood.weebly.com/">Tropical Paleoclimate Dynamics Group</a> at <a href="https://eoas.fsu.edu/">Florida State University</a>.
 
 profile:
   align: right
