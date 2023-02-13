@@ -16,8 +16,8 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Oceanography MSc student in the <a href="https://alyssaatwood.weebly.com/">Tropical Paleoclimate Dynamics Group</a> at Florida State University.
 
-My current work is centered around combining paleoclimate proxy data with isotope-enabled global climate models to better understand the response of tropical hydroclimate to abrupt climate change.
+My current work is centered around <b>combining paleoclimate proxy data with isotope-enabled global climate models</b> to better understand the response of <b>tropical hydroclimate</b> to <b>abrupt climate change</b>.
 
-I am also a member of the PAGES CoralHydro2k Seawater δ18O Database team, where I act as a data wrangler and try to make both published and ‘hidden’ seawater oxygen isotopic data FAIR-compliant for broader scientific use.
+I am also a member of the <b>PAGES CoralHydro2k Seawater δ<sup>18</sup>O Database</b> team, where I act as a <b>data wrangler</b> and try to make both published and ‘hidden’ seawater oxygen isotopic data <b>FAIR-compliant</b> for broader scientific use.
 
 I am a native of upstate New York who has inadvertently moved further and further south over the last decade. Before landing on science as a career choice, I worked as a professional chef for five years. When I'm not busy doing grad student things, you can find me cooking, gardening, or writing music with my partner, Aedan.
