@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Characterizing the Tropical Hydroclimate Response to the 8.2ka Event
-description: a project with a background image
-img: assets/img/12.jpg
+title: Big (paleo)data, big (hydroclimate) changes
+description: Characterizing the tropical hydroclimate response to the 8.2ka Event using data, models, and theory.
+img: assets/img/anom_map_8.2.jpg
 importance: 1
 category: present
 ---
