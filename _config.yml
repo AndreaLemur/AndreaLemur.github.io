@@ -67,16 +67,16 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: AndreaLemur # your GitHub user name
+github_username: AndreaLemur 
 gitlab_username: # your GitLab user name
-twitter_username: oceandreaFSU # your Twitter handle
+twitter_username: oceandreaFSU 
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: andrea-l-moore # your LinkedIn user name
+linkedin_username: andrea-l-moore 
 telegram_username: # your Telegram user name
-scholar_userid: gYfvZVcAAAAJ # your Google Scholar ID
+scholar_userid: gYfvZVcAAAAJ 
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: 0000-0002-8683-1037 # your ORCID ID
+orcid_id: 0000-0002-8683-1037 
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -96,9 +96,6 @@ instagram_id: # your instagram id
 facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
-
-contact_note: >
-  # You can even add a little note about which of these is the best way to reach you.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
