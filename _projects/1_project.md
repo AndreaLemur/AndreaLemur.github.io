@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Big (paleo)data, big (hydroclimate) changes
+title: Retro Rainfall
 description: Characterizing the tropical hydroclimate response to the 8.2ka Event using data, models, and theory.
 img: assets/img/anom_map_8.2.jpg
 importance: 1
