@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: (Paleo)climate data scientist
+subtitle: 
 
 profile:
   align: right
