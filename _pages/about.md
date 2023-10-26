@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate Research Assistant, <a href="https://eoas.fsu.edu/">Dept. of Earth, Ocean, and Atmospheric Science</a>.
+subtitle: (Paleo)climate data scientist
 
 profile:
   align: right
